@@ -7,8 +7,8 @@ Install
 -------
 
 ~~~bash
-composer require https://github.com/DimaKrit/imgLoader2.git
+composer require dimakrit/imgloader2
 ~~~
 
 
-dgahgajshgasjf
+
