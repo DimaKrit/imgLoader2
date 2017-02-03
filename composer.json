@@ -1,0 +1,17 @@
+{
+    "name": "testProject/imgLoader2",
+    "type": "library",
+    "description": "Composer package by testProject",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~4.2"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "DimaKrit\\TestProject\\": "src"
+
+        }
+    }
+}
